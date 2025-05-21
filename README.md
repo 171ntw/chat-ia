@@ -43,7 +43,7 @@ cd chat-ia
 
 3. Abra o arquivo `script.js` e substitua `'Bearer API-KEY'` pela sua chave da OpenAI:
 ```javascript
-'Authorization': 'Bearer SUA-CHAVE-AQUI'
+'Authorization': 'Bearer API-KEY'
 ```
 
 4. Abra o arquivo `index.html` em seu navegador ou use um servidor local.
@@ -75,16 +75,6 @@ tailwind.config = {
     }
 }
 ```
-
-## 🤝 Contribuindo
-
-Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-1. Faça um Fork do projeto
-2. Crie uma Branch para sua Feature (`git checkout -b feature/AmazingFeature`)
-3. Faça o Commit das suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Faça o Push para a Branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
 
 ## 📝 Licença
 
